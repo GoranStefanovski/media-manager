@@ -19,6 +19,7 @@
   },
   "homepage": "http://provision.bg",
   "require": {
+    "astrotomic/laravel-translatable": "^11.10"
   },
   "autoload": {
     "psr-4": {

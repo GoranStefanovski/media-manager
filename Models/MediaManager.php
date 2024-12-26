@@ -7,7 +7,7 @@
 
 namespace ProVision\MediaManager\Models;
 
-use Dimsav\Translatable\Translatable;
+use Astrotomic\Translatable\Translatable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\File;
 use ProVision\MediaManager\Traits\MediaManagerTrait;

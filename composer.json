@@ -9,21 +9,21 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Venelin Iliev",
-      "homepage": "http://veneliniliev.com"
+      "name": "Goran Stefanovski",
+      "homepage": "https://tevidma.com"
     }
   ],
   "support": {
     "issues": "https://github.com/ProVisionBG/media-manager/issues",
     "source": "https://github.com/ProVisionBG/media-manager"
   },
-  "homepage": "http://provision.bg",
+  "homepage": "https://tevidma.com",
   "require": {
     "astrotomic/laravel-translatable": "^11.10"
   },
   "autoload": {
     "psr-4": {
-      "ProVision\\MediaManager\\": "."
+      "GoranStefanovski\\MediaManager\\": "."
     }
   },
   "autoload-dev": {
@@ -31,7 +31,7 @@
       "database"
     ],
     "psr-4": {
-      "ProVision\\MediaManager\\": "."
+      "GoranStefanovski\\MediaManager\\": "."
     }
   }
 }

@@ -1,8 +1,8 @@
 <?php
 
 /*
- * ProVision Administration, http://ProVision.bg
- * Author: Venelin Iliev, http://veneliniliev.com
+ * Goran Stefanovski, https://tevidma.com
+ * Author: https://tevidma.com
  */
 
 namespace ProVision\MediaManager;

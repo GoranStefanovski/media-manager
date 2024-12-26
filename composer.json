@@ -1,8 +1,8 @@
 {
-  "name": "provision/media-manager",
-  "description": "ProVision Administration media manager",
+  "name": "goranstefanovski/media-manager",
+  "description": "GoranStefanovski Administration media manager",
   "keywords": [
-    "provision",
+    "goranstefanovski",
     "module",
     "media manager"
   ],

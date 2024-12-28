@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "GoranStefanovski\\MediaManager\\": "."
+      "ProVision\\MediaManager\\": "."
     }
   },
   "autoload-dev": {
@@ -31,7 +31,7 @@
       "database"
     ],
     "psr-4": {
-      "GoranStefanovski\\MediaManager\\": "."
+      "ProVision\\MediaManager\\": "."
     }
   }
 }
